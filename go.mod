@@ -354,6 +354,6 @@ require (
 retract v3.2.0 // retract due to broken js protocol issue
 
 replace (
-	github.com/projectdiscovery/httpx v1.6.5 => github.com/yhy0/httpx v0.0.0-20240701091706-bcd6d38e918b
-	github.com/projectdiscovery/wappalyzergo v0.1.8 => github.com/yhy0/wappalyzergo v0.0.0-20240701084257-c230243e9d8e
+	github.com/projectdiscovery/httpx v1.6.5 => github.com/yhy0/httpx v0.0.0-20240703092203-41c7c943bf70
+	github.com/projectdiscovery/wappalyzergo v0.1.8 => github.com/yhy0/wappalyzergo v0.0.0-20240703091843-96f4c697343a
 )

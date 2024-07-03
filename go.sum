@@ -1091,10 +1091,10 @@ github.com/xhit/go-str2duration v1.2.0/go.mod h1:3cPSlfZlUHVlneIVfePFWcJZsuwf+P1
 github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8 h1:nIPpBwaJSVYIxUFsDv3M8ofmx9yWTog9BfvIu0q41lo=
 github.com/xi2/xz v0.0.0-20171230120015-48954b6210f8/go.mod h1:HUYIGzjTL3rfEspMxjDjgmT5uz5wzYJKVo23qUhYTos=
 github.com/xiang90/probing v0.0.0-20190116061207-43a291ad63a2/go.mod h1:UETIi67q53MR2AWcXfiuqkDkRtnGDLqkBTpCHuJHxtU=
-github.com/yhy0/httpx v0.0.0-20240701091706-bcd6d38e918b h1:WUkeEL9xXktGOzaLsv4Tltqf/EKpBlKDNgibVDTFU4c=
-github.com/yhy0/httpx v0.0.0-20240701091706-bcd6d38e918b/go.mod h1:WKHgUzctg/zJGCc8ot7cTw5x6aKpiNTW0yPolzhRisc=
-github.com/yhy0/wappalyzergo v0.0.0-20240701084257-c230243e9d8e h1:sh8zt6iFq7AMnl3TpFWzFqUqgsfL9JXPki5sArzlkEI=
-github.com/yhy0/wappalyzergo v0.0.0-20240701084257-c230243e9d8e/go.mod h1:NlCNNokYymu6MfavO3eBoqRIyYnGEYiHwJDLPeCzMuU=
+github.com/yhy0/httpx v0.0.0-20240703092203-41c7c943bf70 h1:mMhVaIv3IWP1IypdI+3MnfhQtBHLES6cgnQn3umWRSE=
+github.com/yhy0/httpx v0.0.0-20240703092203-41c7c943bf70/go.mod h1:sBRTmrr88nk4GeBXChu7xBxZSgzwFgux8oBRwzd/klk=
+github.com/yhy0/wappalyzergo v0.0.0-20240703091843-96f4c697343a h1:2sjxkG+VIITiYKFjlnQWlWimiab7GQ7SgbgymtMu3ZM=
+github.com/yhy0/wappalyzergo v0.0.0-20240703091843-96f4c697343a/go.mod h1:NlCNNokYymu6MfavO3eBoqRIyYnGEYiHwJDLPeCzMuU=
 github.com/yl2chen/cidranger v1.0.2 h1:lbOWZVCG1tCRX4u24kuM1Tb4nHqWkDxwLdoS+SevawU=
 github.com/yl2chen/cidranger v1.0.2/go.mod h1:9U1yz7WPYDwf0vpNWFaeRh0bjwz5RVgRy/9UEQfHl0g=
 github.com/ysmood/fetchup v0.2.3 h1:ulX+SonA0Vma5zUFXtv52Kzip/xe7aj4vqT5AJwQ+ZQ=
